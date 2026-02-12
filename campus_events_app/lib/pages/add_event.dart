@@ -131,7 +131,6 @@ class _AddEventPageState extends State<AddEventPage> {
 
               const SizedBox(height: 30),
 
-              // Bouton Valider
               SizedBox(
                 width: double.infinity,
                 height: 50,
